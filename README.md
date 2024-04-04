@@ -43,7 +43,7 @@ bun run dev
 Build the application for production:
 
 ```bash
-# npm
+# npm 
 npm run build
 
 # pnpm
